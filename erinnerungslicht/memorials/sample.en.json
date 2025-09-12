@@ -1,0 +1,26 @@
+{
+  "name": "Maria Mustermann",
+  "birth_date": "March 15, 1945",
+  "death_date": "October 22, 2023",
+  "birth_place": "Munich",
+  "death_place": "Munich",
+  "age": "78 years",
+  "obituary": "In loving memory of a wonderful mother, grandmother and friend. Maria was known for her kindness, humor and endless love for family. She will live on in our hearts.",
+  "life_story": "Maria was born in Munich and spent her entire life in Bavaria. She worked for 40 years as an elementary school teacher and shaped the lives of countless children. In her free time, she loved gardening, baking and long walks in the mountains.",
+  "family": [
+    "Husband: Hans Mustermann (†2020)",
+    "Children: Anna Schmidt, Thomas Mustermann",
+    "Grandchildren: Lisa, Max, Sophie"
+  ],
+  "images": [
+    "assets/img/memorial-1.jpg",
+    "assets/img/memorial-2.jpg",
+    "assets/img/memorial-3.jpg"
+  ],
+  "funeral_info": {
+    "date": "October 28, 2023",
+    "time": "2:00 PM",
+    "location": "Munich-Bogenhausen Cemetery",
+    "address": "Musterstraße 123, 80000 Munich"
+  }
+}

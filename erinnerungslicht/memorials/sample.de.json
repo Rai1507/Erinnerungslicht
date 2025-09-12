@@ -1,0 +1,26 @@
+{
+  "name": "Maria Mustermann",
+  "birth_date": "15. März 1945",
+  "death_date": "22. Oktober 2023",
+  "birth_place": "München",
+  "death_place": "München",
+  "age": "78 Jahre",
+  "obituary": "In liebevoller Erinnerung an eine wunderbare Mutter, Großmutter und Freundin. Maria war bekannt für ihre Güte, ihren Humor und ihre unendliche Liebe zur Familie. Sie wird in unseren Herzen weiterleben.",
+  "life_story": "Maria wurde in München geboren und verbrachte ihr ganzes Leben in Bayern. Sie arbeitete 40 Jahre als Grundschullehrerin und prägte das Leben unzähliger Kinder. In ihrer Freizeit liebte sie das Gärtnern, Backen und lange Spaziergänge in den Bergen.",
+  "family": [
+    "Ehemann: Hans Mustermann (†2020)",
+    "Kinder: Anna Schmidt, Thomas Mustermann",
+    "Enkelkinder: Lisa, Max, Sophie"
+  ],
+  "images": [
+    "assets/img/memorial-1.jpg",
+    "assets/img/memorial-2.jpg",
+    "assets/img/memorial-3.jpg"
+  ],
+  "funeral_info": {
+    "date": "28. Oktober 2023",
+    "time": "14:00 Uhr",
+    "location": "Friedhof München-Bogenhausen",
+    "address": "Musterstraße 123, 80000 München"
+  }
+}

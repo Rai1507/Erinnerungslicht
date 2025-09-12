@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR-Labels erstellen | Erinnerungslicht</title>
+    <meta name="description" content="Erstellen Sie QR-Code-Labels für Ihre Gedenkseite. Einfach URL eingeben, QR-Code generieren und drucken.">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/print.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <a href="/index.de.html" class="logo">
+                    <img src="/assets/img/logo.svg" alt="Erinnerungslicht" width="200" height="60">
+                </a>
+                <nav class="nav">
+                    <ul class="nav-list">
+                        <li><a href="/index.de.html" class="nav-link">Startseite</a></li>
+                        <li><a href="/qr.html" class="nav-link active">QR-Labels</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main">
+        <section class="section">
+            <div class="container">
+                <h1>QR-Labels erstellen</h1>
+                <p class="section-subtitle">Erstellen Sie QR-Code-Aufkleber für Grabsteine oder Erinnerungsorte.</p>
+
+                <div class="qr-generator">
+                    <form id="qr-form" class="form">
+                        <div class="form-group">
+                            <label for="memorial-url" class="form-label">URL der Gedenkseite</label>
+                            <input type="url" id="memorial-url" name="memorial-url" class="form-input" 
+                                   placeholder="https://erinnerungslicht.de/memorial/..." required>
+                        </div>
+                        <button type="submit" class="btn btn-primary">QR-Code generieren</button>
+                    </form>
+
+                    <div id="qr-preview" class="qr-preview">
+                        <p>Geben Sie eine URL ein, um QR-Codes zu generieren.</p>
+                    </div>
+
+                    <div class="qr-actions" style="display: none;">
+                        <button id="qr-download" class="btn btn-secondary">Als Bild herunterladen</button>
+                        <button id="qr-print" class="btn btn-primary">Drucken</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2024 Erinnerungslicht e.K. Alle Rechte vorbehalten.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/qrcode.min.js"></script>
+</body>
+</html>

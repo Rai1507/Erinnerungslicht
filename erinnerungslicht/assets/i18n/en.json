@@ -1,0 +1,162 @@
+{
+  "brand": {
+    "name": "Erinnerungslicht",
+    "tagline": "Preserving memories — dignified and close.",
+    "description": "Digital memorial pages & words of comfort — no upkeep, always accessible."
+  },
+  "nav": {
+    "home": "Home",
+    "example": "Example",
+    "christian": "Christian Thoughts",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy",
+    "qr": "QR Labels"
+  },
+  "hero": {
+    "headline": "Preserving memories — dignified and close",
+    "subline": "Digital memorial pages & words of comfort — no upkeep, always accessible.",
+    "cta_primary": "Create memorial page",
+    "cta_secondary": "How it works"
+  },
+  "features": {
+    "title": "Why Erinnerungslicht?",
+    "items": [
+      {
+        "title": "No upkeep, anytime",
+        "description": "Once created, always available. No updates or maintenance needed."
+      },
+      {
+        "title": "Online within 48h",
+        "description": "From order to finished memorial page in just 48 hours."
+      },
+      {
+        "title": "Christian texts optional",
+        "description": "We can complement your memorial page with Christian comfort texts."
+      },
+      {
+        "title": "For people & pets",
+        "description": "Dignified remembrance of beloved people and faithful companions."
+      },
+      {
+        "title": "Optional QR code",
+        "description": "Practical QR stickers for gravestones or memorial places."
+      },
+      {
+        "title": "GDPR-compliant",
+        "description": "GDPR-compliant hosting in Germany. Your data is secure."
+      }
+    ]
+  },
+  "process": {
+    "title": "How it works",
+    "steps": [
+      {
+        "title": "Choose package",
+        "description": "Decide on Basic, Plus or subscription variant."
+      },
+      {
+        "title": "Send photos & data",
+        "description": "Send us 3-10 photos, life data and your desired text."
+      },
+      {
+        "title": "We design (48h)",
+        "description": "Our team creates your memorial page lovingly and professionally."
+      },
+      {
+        "title": "Approval at your pace",
+        "description": "You receive a preview and can make 2 corrections."
+      },
+      {
+        "title": "Publication & QR",
+        "description": "After your approval, the page goes online, QR codes follow by mail."
+      },
+      {
+        "title": "Reminder emails",
+        "description": "Optional: Gentle reminders on memorial days (cancel anytime)."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Our Packages",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": "€49",
+        "description": "Digital memorial page",
+        "features": [
+          "Responsive design",
+          "Available indefinitely",
+          "2 corrections included"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "€69",
+        "description": "Memorial page + 2 QR stickers",
+        "features": [
+          "Everything from Basic",
+          "2 weatherproof QR stickers",
+          "Free shipping"
+        ]
+      },
+      {
+        "name": "Subscription",
+        "price": "€49/year",
+        "description": "Reminder emails",
+        "features": [
+          "Gentle reminders",
+          "Memorial days & holidays",
+          "Cancel anytime"
+        ]
+      }
+    ],
+    "addon": {
+      "name": "Christian comfort text",
+      "price": "+€20",
+      "description": "Addition of Christian texts and prayers"
+    }
+  },
+  "testimonials": {
+    "title": "What our customers say",
+    "items": [
+      {
+        "text": "A beautiful way to remember our mother. The page is lovingly designed.",
+        "author": "Schmidt Family"
+      },
+      {
+        "text": "Fast, professional and very empathetic. Exactly what we needed.",
+        "author": "Maria K."
+      },
+      {
+        "text": "The QR codes on the gravestone are a great idea. Visitors can directly see the memories.",
+        "author": "Thomas B."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in touch",
+    "subtitle": "We are here for you and happy to advise you.",
+    "form": {
+      "name": "Your name",
+      "email": "Email address",
+      "message": "Your message",
+      "privacy": "I have read the privacy policy and agree to the processing of my data.",
+      "submit": "Send message",
+      "success": "Thank you! We will get back to you within 24 hours.",
+      "error": "Sorry, an error occurred while sending. Please try again."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Erinnerungslicht e.K. All rights reserved.",
+    "service_area": "We are here for you in Germany, Austria and Switzerland."
+  },
+  "consent": {
+    "title": "Cookie Settings",
+    "text": "We only use technically necessary cookies. Optionally, you can activate analytics cookies.",
+    "accept_all": "Accept all",
+    "accept_necessary": "Necessary only",
+    "details": "Details"
+  }
+}

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Beispiel-Seiten nicht indexieren
+Disallow: /beispiel.de.html
+Disallow: /example.en.html
+
+# Admin-Bereiche
+Disallow: /api/
+Disallow: /assets/
+
+# Sitemap
+Sitemap: https://erinnerungslicht.de/sitemap.xml

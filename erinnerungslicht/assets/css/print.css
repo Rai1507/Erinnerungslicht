@@ -1,0 +1,40 @@
+/* Print Styles für QR-Labels */
+@media print {
+  body {
+    margin: 0;
+    padding: 0;
+    background: white;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  .qr-label {
+    width: 85mm;
+    height: 54mm;
+    border: 1px solid #ccc;
+    margin: 5mm;
+    padding: 5mm;
+    display: inline-block;
+    text-align: center;
+    page-break-inside: avoid;
+  }
+
+  .qr-code {
+    max-width: 30mm;
+    max-height: 30mm;
+    margin: 0 auto 3mm;
+  }
+
+  .qr-text {
+    font-size: 8pt;
+    font-family: Arial, sans-serif;
+    word-break: break-all;
+  }
+
+  @page {
+    size: A4;
+    margin: 10mm;
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "brand": {
+    "name": "Erinnerungslicht",
+    "tagline": "Erinnerungen bewahren – würdevoll & nah.",
+    "description": "Digitale Gedenkseiten & Worte des Trostes – ohne Pflegeaufwand, immer erreichbar."
+  },
+  "nav": {
+    "home": "Startseite",
+    "example": "Beispiel",
+    "christian": "Christliche Gedanken",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "qr": "QR-Labels"
+  },
+  "hero": {
+    "headline": "Erinnerungen bewahren – würdevoll & nah",
+    "subline": "Digitale Gedenkseiten & Worte des Trostes – ohne Pflegeaufwand, immer erreichbar.",
+    "cta_primary": "Gedenkseite erstellen",
+    "cta_secondary": "So funktioniert's"
+  },
+  "features": {
+    "title": "Warum Erinnerungslicht?",
+    "items": [
+      {
+        "title": "Pflegefrei & jederzeit",
+        "description": "Einmal erstellt, immer verfügbar. Keine Updates oder Wartung nötig."
+      },
+      {
+        "title": "In 48h online",
+        "description": "Von der Beauftragung bis zur fertigen Gedenkseite in nur 48 Stunden."
+      },
+      {
+        "title": "Optional christliche Texte",
+        "description": "Auf Wunsch ergänzen wir Ihre Gedenkseite um christliche Trosttexte."
+      },
+      {
+        "title": "Für Menschen & Tiere",
+        "description": "Würdevolle Erinnerung an geliebte Menschen und treue Begleiter."
+      },
+      {
+        "title": "QR-Code optional",
+        "description": "Praktische QR-Aufkleber für Grabsteine oder Erinnerungsorte."
+      },
+      {
+        "title": "Datenschutzkonform",
+        "description": "DSGVO-konform gehostet in Deutschland. Ihre Daten sind sicher."
+      }
+    ]
+  },
+  "process": {
+    "title": "So funktioniert's",
+    "steps": [
+      {
+        "title": "Paket wählen",
+        "description": "Entscheiden Sie sich für Basis, Plus oder Abo-Variante."
+      },
+      {
+        "title": "Fotos & Daten senden",
+        "description": "Senden Sie uns 3-10 Fotos, Lebensdaten und Ihren Wunschtext."
+      },
+      {
+        "title": "Wir gestalten (48h)",
+        "description": "Unser Team erstellt Ihre Gedenkseite liebevoll und professionell."
+      },
+      {
+        "title": "Freigabe in Ruhe",
+        "description": "Sie erhalten eine Vorschau und können 2 Korrekturen vornehmen."
+      },
+      {
+        "title": "Veröffentlichung & QR",
+        "description": "Nach Ihrer Freigabe geht die Seite online, QR-Codes folgen per Post."
+      },
+      {
+        "title": "Erinnerungs-E-Mails",
+        "description": "Optional: Sanfte Erinnerungen an Gedenktage (jederzeit kündbar)."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Unsere Pakete",
+    "packages": [
+      {
+        "name": "Basis",
+        "price": "49 €",
+        "description": "Digitale Gedenkseite",
+        "features": [
+          "Responsive Design",
+          "Unbegrenzt verfügbar",
+          "2 Korrekturen inklusive"
+        ]
+      },
+      {
+        "name": "Plus",
+        "price": "69 €",
+        "description": "Gedenkseite + 2 QR-Aufkleber",
+        "features": [
+          "Alles aus Basis",
+          "2 wetterfeste QR-Aufkleber",
+          "Kostenloser Versand"
+        ]
+      },
+      {
+        "name": "Abo",
+        "price": "49 €/Jahr",
+        "description": "Erinnerungs-E-Mails",
+        "features": [
+          "Sanfte Erinnerungen",
+          "Gedenktage & Feiertage",
+          "Jederzeit kündbar"
+        ]
+      }
+    ],
+    "addon": {
+      "name": "Christlicher Trosttext",
+      "price": "+20 €",
+      "description": "Ergänzung um christliche Texte und Gebete"
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Kunden sagen",
+    "items": [
+      {
+        "text": "Eine wunderschöne Art, an unsere Mutter zu erinnern. Die Seite ist liebevoll gestaltet.",
+        "author": "Familie Schmidt"
+      },
+      {
+        "text": "Schnell, professionell und sehr einfühlsam. Genau das, was wir brauchten.",
+        "author": "Maria K."
+      },
+      {
+        "text": "Die QR-Codes am Grabstein sind eine tolle Idee. Besucher können direkt die Erinnerungen sehen.",
+        "author": "Thomas B."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Wir sind für Sie da und beraten Sie gerne.",
+    "form": {
+      "name": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "message": "Ihre Nachricht",
+      "privacy": "Ich habe die Datenschutzerklärung gelesen und stimme der Verarbeitung meiner Daten zu.",
+      "submit": "Nachricht senden",
+      "success": "Vielen Dank! Wir melden uns binnen 24 Stunden bei Ihnen.",
+      "error": "Entschuldigung, beim Senden ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Erinnerungslicht e.K. Alle Rechte vorbehalten.",
+    "service_area": "Wir sind für Sie da in Deutschland, Österreich und der Schweiz."
+  },
+  "consent": {
+    "title": "Cookie-Einstellungen",
+    "text": "Wir verwenden nur technisch notwendige Cookies. Optional können Sie Analytics-Cookies aktivieren.",
+    "accept_all": "Alle akzeptieren",
+    "accept_necessary": "Nur Notwendige",
+    "details": "Details"
+  }
+}
