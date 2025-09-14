@@ -4,4 +4,6 @@ document.addEventListener('DOMContentLoaded',()=>{
   const t=document.querySelector(btn.getAttribute('href'));
   if(t){e.preventDefault();t.scrollIntoView({behavior:'smooth'});}
  });}
+ const banner=document.querySelector('.cookie-banner'); 
+ if(banner){banner.querySelector('button').addEventListener('click',()=>banner.remove());}
 });
