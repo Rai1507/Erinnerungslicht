@@ -1,0 +1,23 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="30%" r="30%">
+      <stop offset="0%" stop-color="#ffd59e" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#ffb347" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wax" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f7f1e6"/>
+      <stop offset="100%" stop-color="#e2d7c5"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#0b0f14"/>
+  <circle cx="600" cy="260" r="220" fill="url(#glow)"/>
+  <!-- Candle body -->
+  <g filter="url(#shadow)">
+    <rect x="555" y="330" width="90" height="220" rx="12" fill="url(#wax)"/>
+  </g>
+  <!-- Flame -->
+  <path d="M600,240 C560,210 590,150 600,140 C610,150 640,210 600,240 Z" fill="#ffbb66"/>
+  <ellipse cx="600" cy="250" rx="14" ry="6" fill="#ffd59e" opacity="0.8"/>
+</svg>
